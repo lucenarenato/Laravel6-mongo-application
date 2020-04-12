@@ -56,6 +56,6 @@ Route::get('/wait/{seconds}', function ($seconds) {
 
 Auth::routes(['verify' => true]);
 
-Route::get('/home', 'HomeController@index')
+/*Route::get('/home', 'HomeController@index')
     ->name('home')
-    ->middleware('verified');
+    ->middleware('verified');*/
