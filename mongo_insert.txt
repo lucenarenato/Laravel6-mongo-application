@@ -1,0 +1,51 @@
+db.books.insert(
+[ {
+	"isbn": 9780060859749,	
+	"title": "After Alice: A Novel",
+ 	"author": "Gregory Maguire",
+ 	"category": "Fiction"
+ 	},
+ 	{
+	"isbn": 9781505297409,	
+	"title": "Treasure Island",
+	"author": "Robert Louis Stevenson",
+	"category": "Fiction"
+ 	},
+	{
+	"isbn": 9780071808552,	
+	"title": "Java: The Complete Reference",
+	"author": "Herbert Schildt",
+	"category": "Computing"
+ 	},
+	{
+	"isbn": 9781909430167,	
+	"title": "I Think Therefore I Play",
+	"author": "Herbert Schildt",
+	"category": "Biography"
+ 	},
+	{
+	"isbn": 9780553380163,	
+	"title": "A Brief History of Time",
+	"author": "Stephen Hawking",
+	"category": "Cosmology"
+ 	},
+ 	{
+ 	"isbn": 9780340951699,	
+ 	"title": "Mad, Bad and Dangerous to Know",
+ 	"author": "Ranulph Fiennes",
+ 	"category": "Geography"
+ 	},
+	{
+	"isbn": 9781615193585,	
+	"title": "How to Read Water: Clues and Patterns from Puddles to the Sea",
+	"author": "Tristan Gooley",
+	"category": "Oceanography"
+ 	},
+	{
+	"isbn": 9781615193585,	
+	"title": "Learning Robotics using Python",
+	"author": "Lentin Joseph",
+	"category": "Computing"
+ 	
+  } ]
+)
